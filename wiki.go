@@ -1,5 +1,7 @@
 package main
 
+//An example of a basic wiki running on a server in go, Collaborative set of pages able to be edited and saved by different users
+
 import(
 	//"fmt"
 	"io/ioutil"
